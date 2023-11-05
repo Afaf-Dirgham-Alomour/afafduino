@@ -1,3 +1,4 @@
+// Arduino Tutorial 25: Understanding Photoresistors and Photo Detectors
 // based on the tutorial from Paul McWhorter
 // https://youtu.be/WMkN-uHd-Xo?si=FswJonz2gzZ3iN8w
 int lightpen=A0;
